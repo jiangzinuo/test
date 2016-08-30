@@ -1,0 +1,22 @@
+body,html{
+    width:100%;
+    height:100%;
+    font-family: Arial, Microsoft Yahei, serif;
+    font-size:62.5%;
+}
+html,body,div,p,span,a,ul,ol,li,h1,h2,h3,h4,h5,h6,button{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration:none;
+}
+li{
+    list-style:none;
+}
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
